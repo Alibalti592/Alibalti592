@@ -1,90 +1,99 @@
 # Hi, I'm Ali Balti 👋
 
-### Flutter Developer | Mobile Applications
+### Junior Mobile Developer | Flutter & Symfony Full-Stack
 
-I'm a Flutter Developer focused on building modern cross-platform mobile applications.
+Software Engineering graduate focused on building mobile and full-stack applications with Flutter, Symfony, REST APIs, and relational databases.
 
-I enjoy turning real-world problems into functional mobile products using **Flutter & Dart**, with experience integrating **REST APIs, Firebase, authentication, and backend services**.
+I enjoy building complete applications from the mobile interface to the backend API and database.
 
-## 🚀 Featured Project
+---
 
-### 📱 ELH — Muslim Connect
+## 🚀 Featured Projects
+
+### 📱 Muslim Connect
 
 A full-stack mobile application built with **Flutter** and **Symfony**.
 
-**Tech Stack**
+The application helps users manage spiritual practices, financial commitments, charitable activities, and community-oriented features.
 
-* Flutter & Dart
-* Symfony & PHP
-* REST API
-* JWT Authentication
-* Firebase Storage
-* Firebase Cloud Messaging
-* MySQL
-* Doctrine ORM
+**Tech Stack:**
 
-**Features**
+`Flutter` `Dart` `Symfony` `PHP` `MySQL` `JWT` `Firebase` `REST API`
 
-* User authentication
-* REST API integration
-* Debt & installment management
-* Automatic remaining-balance calculations
-* Cloud file uploads
-* Push notifications
-* Messaging and conversations
-* Backend data management
+🔗 [View Muslim Connect](https://github.com/Alibalti592/elh-app)
 
-📱 **Google Play:** https://play.google.com/store/apps/details?id=com.elh.app
-💻 **Repository:** https://github.com/Alibalti592/elh-app
+📱 [Google Play](https://play.google.com/store/apps/details?id=com.elh.app)
 
 ---
-
-## 💻 Other Projects
 
 ### ⚖️ Avocat-Connect
 
-Cross-platform mobile application connecting users with lawyers.
+A mobile platform designed to connect users with lawyers.
 
-**Tech Stack:** React Native • Expo • Redux Toolkit • React Navigation • Maps • Location
+The application focuses on lawyer discovery and user interaction through a mobile experience.
 
-* Authentication & OTP verification
-* Lawyer discovery
-* Interactive maps
-* Location services
-* Messaging
-* State management
+**Tech Stack:**
 
-🔗 https://github.com/Alibalti592/Avocat-Connect
+`React Native` `Expo` `JavaScript` `Redux Toolkit` `React Navigation`
+
+🔗 [View Avocat-Connect](https://github.com/Alibalti592/Avocat-Connect)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Mobile**
+### Mobile
+`Flutter` `Dart` `React Native` `Expo`
 
-Flutter • Dart • React Native • Expo
+### Frontend
+`React` `JavaScript` `HTML` `CSS` `Vue.js`
 
-**Backend**
+### Backend
+`Symfony` `PHP` `Node.js` `Express.js`
 
-Symfony • PHP • Node.js • Express.js
+### APIs
+`REST API` `GraphQL` `JWT`
 
-**Database**
+### Databases
+`MySQL` `PostgreSQL` `MongoDB`
 
-MySQL • SQL • MongoDB • Doctrine ORM
+### Tools
+`Git` `GitHub` `Postman` `Docker` `Figma`
 
-**Cloud & APIs**
-
-Firebase • REST APIs • JWT • Firebase Cloud Messaging • Firebase Storage
-
-**Tools**
-
-Git • GitHub • Postman • Figma
+### Cloud
+`Firebase`
 
 ---
 
-## 🎯 Currently Looking For
+## 📚 Currently Improving
 
-I'm looking for opportunities as a **Flutter Developer / Mobile Developer** where I can contribute to real products, grow as a software engineer, and work with an experienced development team.
+- Advanced Flutter development
+- Symfony backend development
+- REST API architecture
+- Docker & containerization
+- CI/CD
+- Cloud and DevOps fundamentals
 
-📍 Tunisia
-🌍 Open to remote opportunities
+---
+
+## 🎯 What I'm Looking For
+
+I'm currently looking for opportunities as a:
+
+- Junior Mobile Developer
+- Flutter Developer
+- Junior Full-Stack Developer
+- React Native Developer
+
+I'm particularly interested in opportunities where I can contribute to real-world applications while continuing to grow as a software engineer.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/balti-ali-979875339/)
+- 💻 GitHub: [@Alibalti592](https://github.com/Alibalti592)
+
+---
+
+⭐ Thanks for visiting my profile!
