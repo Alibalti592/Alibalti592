@@ -16,7 +16,7 @@ A full-stack mobile app: **Flutter** client + **Symfony/PHP** REST API backend, 
 - Firebase Cloud Messaging for push notifications, Firebase Storage for file uploads
 - Backend support for chat threads, messages, and participants
 
-📱 [Google Play](https://play.google.com/store/apps/details?id=com.elh.app) · 💻 [Repository](https://github.com/Alibalti592/elh-app)
+📱 [Google Play](https://play.google.com/store/apps/details?id=com.elh.app) · 💻 [Repository](https://github.com/Alibalti592/Muslim-Connect)
 
 ## 💻 Other Project — Avocat-Connect
 
